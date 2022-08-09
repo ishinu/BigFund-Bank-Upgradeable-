@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+# Bank Upgradeable Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+As of now, this project is having script for truffle but we will be using hardhat to deploy on testnet. 
 
-Try running some of the following tasks:
+For detailed information about how to deploy on testnet, feel free to check [steps](https://github.com/ishinu/Re-Entrancy-Hack-Upgradeable-#to-deploy-on-ropsten-etherscan-network).
 
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+It is still having a few bugs but as soon it is deploy ready, README will be updated. ~Stay tuned.
